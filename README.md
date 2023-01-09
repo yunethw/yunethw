@@ -1,4 +1,4 @@
-<h2> Hi there! I'm Yuneth <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h2>
+<h1> Hi there! I'm Yuneth <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 
 <p>I'm a Sri Lankan student currently studying Computer Science 💻. I'm passionate about solving problems and providing solutions for real world scenarios. I love learning new things and looking under the hood to see how things work. Some of my favourite subject areas are Robotics🤖, IoT💡 and Ethical Hacking🐱‍👤</p>
 
@@ -9,6 +9,7 @@
 - ✈ I love traveling, exploring, and meeting new people and listending to their stories. 
 
 <h3> Languages I have used <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height = 20px></h3>
+
   <p>
     <!--C-->
     <img src="https://img.icons8.com/color/48/null/c-programming.png" width = 30px>
