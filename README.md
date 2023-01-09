@@ -2,7 +2,7 @@
 
 <p>I'm a Sri Lankan student currently studying Computer Science 💻. I'm passionate about solving problems and providing solutions for real world scenarios. I love learning new things and looking under the hood to see how things work. Some of my favourite subject areas are Robotics🤖, IoT💡 and Ethical Hacking🐱‍👤</p>
 
-- 🔭 I’m currently working on cleaning up my Github Repositories
+- 🔭 I’m currently working on my GitHub Profile
 - 🌱 I’m currently learning Python
 - 📫 Reach me at yunethcwij@gmail.com
 - 😄 Pronouns: He/Him
@@ -16,9 +16,43 @@
     <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" width = 30px>
     <!--C#-->
     <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width = 30px>
+    <!--Java-->
+    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width = 30px>
+    <!--js-->
+    <img src="https://img.icons8.com/color/48/null/javascript--v1.png" width = 30px>
+    <!--Python-->
+    <img src="https://img.icons8.com/color/48/null/python--v1.png" width = 30px>
+    <!--HTML-->
+    <img src="https://img.icons8.com/color/48/null/html-5--v1.png" width = 30px title = "HTML 5">
+    <!--CSS-->
+    <img src="https://img.icons8.com/color/48/null/css3.png" width = 30px title = "CSS">
+  </p>
+  
+ <h4> Tools and Technologies I have worked with </h4>
+  <p>
+    <!--GitHub-->
+    <img src="https://img.icons8.com/fluency/48/null/github.png" width = 30px title = "GitHub">
+    <!--Git-->
+    <img src="https://img.icons8.com/color/48/null/git.png" width = 30px title = "Git">
+    <!--Arduino-->
+    <img src="https://img.icons8.com/color/48/null/arduino.png" width = 30px> 
+    <!--Firebase-->
+    <img src="https://img.icons8.com/color/48/null/firebase.png" width = 30px title = "Firebase"> 
+    <!--Google Cloud-->
+    <img src="https://img.icons8.com/color/48/null/google-cloud.png" width = 30px title = "Google Cloud">     
+  </p>
+  
+ <h4> Mobile App Development </h4>
+  <p>
+    <!--Android-->
+    <img src="https://img.icons8.com/color/48/000000/android-os.png" width = 30px title = "Android">
+    <!--Kotlin-->
+    <img src="https://img.icons8.com/color/48/null/kotlin.png" width = 30px title = "Kotlin">
+    <!--Jetpack Compose-->
+    <img src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" width = 30px title = "Jetpack Compose">
   </p>
 
-<img src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" width = 30px>
+
 <!--
 **yunethw/yunethw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
