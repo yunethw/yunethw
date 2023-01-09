@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python
 - 📫 Reach me at yunethcwij@gmail.com
 - 😄 Pronouns: He/Him
-- ✈ I love traveling, exploring, and meeting new people and listending to their stories.
+- ✈ I love traveling, exploring, and meeting new people and listening to their stories.
 
 <h3> Languages I have used <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height = 20px></h3>
 
