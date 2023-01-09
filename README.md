@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python
 - 📫 Reach me at yunethcwij@gmail.com
 - 😄 Pronouns: He/Him
-- ✈ I love traveling, exploring, and meeting new people and listending to their stories. 
+- ✈ I love traveling, exploring, and meeting new people and listending to their stories.
 
 <h3> Languages I have used <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height = 20px></h3>
 
@@ -43,7 +43,7 @@
     <img src="https://img.icons8.com/color/48/null/google-cloud.png" width = 30px title = "Google Cloud">     
   </p>
   
- <h3> Mobile App Development </h3>
+ <h3> Mobile App Development <img src = "https://media.giphy.com/media/AmeGUVxf2i3fQ9TOLO/giphy.gif" height = 22px></h3>
   <p>
     <!--Android-->
     <img src="https://img.icons8.com/color/48/000000/android-os.png" width = 30px title = "Android">
