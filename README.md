@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ✈ I love traveling, exploring, and meeting new people and listending to their stories. 
 
-<h3> Languages I have used </h3>
+<h3> Languages I have used <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height = 20px></h3>
   <p>
     <!--C-->
     <img src="https://img.icons8.com/color/48/null/c-programming.png" width = 30px>
@@ -28,7 +28,7 @@
     <img src="https://img.icons8.com/color/48/null/css3.png" width = 30px title = "CSS">
   </p>
   
- <h4> Tools and Technologies I have worked with </h4>
+ <h3> Tools and Technologies I have worked with<img align="center" src = "https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" height = 22px></h3>
   <p>
     <!--GitHub-->
     <img src="https://img.icons8.com/fluency/48/null/github.png" width = 30px title = "GitHub">
@@ -42,7 +42,7 @@
     <img src="https://img.icons8.com/color/48/null/google-cloud.png" width = 30px title = "Google Cloud">     
   </p>
   
- <h4> Mobile App Development </h4>
+ <h3> Mobile App Development </h3>
   <p>
     <!--Android-->
     <img src="https://img.icons8.com/color/48/000000/android-os.png" width = 30px title = "Android">
@@ -51,6 +51,8 @@
     <!--Jetpack Compose-->
     <img src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" width = 30px title = "Jetpack Compose">
   </p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunethw)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
