@@ -61,10 +61,10 @@
     <img align="center" src = "icons/icons8-linkedin-48.png" height = 24px>
   </a>
   <a href="https://fb.com/yuneth.w" target="blank">
-    <img align="center" src = "icons/icons8-facebook-48 (1).png" height = 24px>
+    <img align="center" src = "icons/icons8-facebook-48.png" height = 24px>
   </a>
   <a href="https://instagram.com/yuneth.w" target="blank">
-    <img align="center" src = "icons/icons8-instagram-48 (1).png" height = 24px>
+    <img align="center" src = "icons/icons8-instagram-48.png" height = 24px>
   </a>
   <a href="https://medium.com/@yuneth.w" target="blank">
     <img align="center" src = "icons/icons8-medium-monogram-48.png" height = 24px>
