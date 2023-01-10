@@ -36,7 +36,7 @@
     <!--Git-->
     <img src="https://img.icons8.com/color/48/null/git.png" width = 30px title = "Git">
     <!--Arduino-->
-    <img src="https://img.icons8.com/color/48/null/arduino.png" width = 30px> 
+    <img src="https://img.icons8.com/color/48/null/arduino.png" width = 30px title = "Arduino"> 
     <!--Firebase-->
     <img src="https://img.icons8.com/color/48/null/firebase.png" width = 30px title = "Firebase"> 
     <!--Google Cloud-->
