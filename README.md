@@ -2,11 +2,10 @@
 
 <p>I'm a Sri Lankan student currently studying Computer Science 💻. I'm passionate about solving problems and providing solutions for real world scenarios. I love learning new things and looking under the hood to see how things work. Some of my favourite subject areas are Robotics🤖, IoT💡 and Ethical Hacking🐱‍👤</p>
 
-- 🔭 I’m currently working on a software to translate sign language to text ✋🏼☝🏼🤘🏼
+- 🔭 I’m currently working on STEM Education solutions for kids
 - 🌱 I’m currently learning Python
 - 📫 Reach me at yunethcwij@gmail.com
-- 😄 Pronouns: He/Him
-- ✈ I love traveling, exploring, and meeting new people and listening to their stories.
+- ✈ I love travelling, exploring, and meeting new people and listening to their stories.
 
 <h3> Languages I have used <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height = 20px></h3>
 
