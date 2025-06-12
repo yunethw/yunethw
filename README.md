@@ -2,7 +2,7 @@
 
 <p>I'm a Sri Lankan student currently studying Computer Science 💻. I'm passionate about solving problems and providing solutions for real world scenarios. I love learning new things and looking under the hood to see how things work. Some of my favourite subject areas are Robotics🤖, IoT💡 and Ethical Hacking🐱‍👤</p>
 
-- 🔭 I’m currently working on STEM Education solutions for kids
+- 🔭 I’m currently working on tech solutions to combat climate change
 - 🌱 I’m currently learning Python
 - 📫 Reach me at yunethcwij@gmail.com
 - ✈ I love travelling, exploring, and meeting new people and listening to their stories.
